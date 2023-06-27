@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstanteriaPoo2023.Consola", "EstanteriaPoo2023.Consola\EstanteriaPoo2023.Consola.csproj", "{8FC90E99-D459-4528-92B5-9B9E72B66051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstanteriaPoo2023.Entidades", "EstanteriaPoo2023.Entidades\EstanteriaPoo2023.Entidades.csproj", "{F419910A-6CE6-4829-911A-FBEA76301D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FC90E99-D459-4528-92B5-9B9E72B66051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC90E99-D459-4528-92B5-9B9E72B66051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC90E99-D459-4528-92B5-9B9E72B66051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC90E99-D459-4528-92B5-9B9E72B66051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F419910A-6CE6-4829-911A-FBEA76301D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F419910A-6CE6-4829-911A-FBEA76301D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F419910A-6CE6-4829-911A-FBEA76301D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F419910A-6CE6-4829-911A-FBEA76301D52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {832438AD-B18A-4283-8053-3BC34A805238}
+	EndGlobalSection
+EndGlobal
